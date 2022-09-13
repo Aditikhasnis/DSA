@@ -105,6 +105,7 @@ void main()
     printf("DATA:%d\t",delete_node->data);
     printf("prio:%d\n",delete_node->prio);
     display_PQ(&front);
+   
     
 
 }
